@@ -26,13 +26,13 @@ Twitter: [@dOrgJelli](https://twitter.com/dOrgJelli)
 
 ## Haythem Sellami
 
-Natanedu, Trojan Foundatio, Coinsence  
+Natanedu, Trojan Foundation, Coinsence  
 Expertise: Development  
 Twitter: [@HS10010110](https://twitter.com/HS10010110)
 
 ## James Duncan
 
-Ecosystem Node, Trojan, dgov, metacartel, denergy  
+Ecosystem Node, Trojan Foundation, dgov, metacartel, denergy  
 Expertise: Funding, open-source development, sustainability focused  
 Twitter: [@okdunc](https://twitter.com/OKDunc)
 
@@ -63,4 +63,14 @@ Twitter: [@anjablaj](https://twitter.com/AnjaBlaj)
 
 Rhizom, Economic Space Agency, Genesis DAO \(DAOstack\), Faircoin node \(past\), Blockchain Research Network, DAOincubator  
 Expertise: Web 3 R&D, Decentralized Governance, Quality Assurance & Accountability
+
+## Adam Reese
+
+Giveth, Trojan Foundation, MIT Press, DAOincubator
+
+Expertise: Decentralized governance, incentive design, critical analysis of off-chain environments
+
+Twitter: [@oneadamreese](https://twitter.com/OneAdamReese)
+
+
 
