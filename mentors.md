@@ -66,10 +66,8 @@ Expertise: Web 3 R&D, Decentralized Governance, Quality Assurance & Accountabili
 
 ## Adam Reese
 
-Giveth, Trojan Foundation, MIT Press, DAOincubator
-
-Expertise: Decentralized governance, incentive design, critical analysis of off-chain environments
-
+Giveth, Trojan Foundation, MIT Press, DAOincubator  
+Expertise: Decentralized governance, incentive design, critical analysis of off-chain environments  
 Twitter: [@oneadamreese](https://twitter.com/OneAdamReese)
 
 
