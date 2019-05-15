@@ -18,4 +18,5 @@
 * [Mentors](mentors.md)
 * [Strategy](strategy.md)
 * [Reports](reports.md)
+* [Reading lists](reading-lists.md)
 
