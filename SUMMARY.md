@@ -16,6 +16,6 @@
   * [Audacity](daos-ecosystem/audacity.md)
   * [CementDAO](daos-ecosystem/cementdao.md)
 * [Mentors](mentors.md)
-* [Strategy](untitled.md)
+* [Strategy](strategy.md)
 * [Reports](reports.md)
 
